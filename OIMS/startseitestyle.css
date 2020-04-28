@@ -1,0 +1,21 @@
+*
+{
+        margin: 0;
+        padding: 0;
+} 
+body
+{
+    font-family: sans-serif;
+} 
+#form
+{
+    padding-left: 700px;
+    padding-right: 700px;
+
+
+} 
+#formular
+{
+    padding-left: 600px;
+    padding-right: 600px;
+} 
